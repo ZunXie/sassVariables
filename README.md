@@ -18,3 +18,7 @@ export default defineConfig({
       }),
   ]
 }）
+```
+
+# 联系
+有基于插件拓展需求可联系 QQ 391119413 及时完善更改
